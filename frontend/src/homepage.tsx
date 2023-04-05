@@ -1,3 +1,4 @@
+// The home page of the website
 import 'bootstrap/dist/css/bootstrap.css';
 
 function HomePage() {

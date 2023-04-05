@@ -1,3 +1,5 @@
+// Function calling the API and returning the results in a table.
+
 import { useEffect, useState } from 'react';
 import { Movie } from '../types/movie';
 
